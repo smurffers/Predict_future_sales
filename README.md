@@ -5,4 +5,4 @@ https://www.kaggle.com/competitions/competitive-data-science-predict-future-sale
 
 
 # Contributions
-If you like our work and would like to contribute to this work please submit a pull request or issue with your details
+If you like our work and would like to contribute to this work please submit a pull request or issue with your details.
